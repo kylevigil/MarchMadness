@@ -1,0 +1,64 @@
+1,1,Indiana,0.9655,East
+2,1,Louisville,0.9721,Midwest
+3,1,Kansas,0.9418,South
+4,1,Gonzaga,0.9578,West
+5,2,Miami,0.9164,East
+6,2,Duke,0.9454,Midwest
+7,2,Georgetown,0.9263,South
+8,2,Ohio St,0.9475,West
+9,3,Marquette,0.8805,East
+10,3,Mich St,0.9325,Midwest
+11,3,Florida,0.9731,South
+12,3,New Mexico,0.9035,West
+13,4,Syracuse,0.9213,East
+14,4,St. Louis,0.9039,Midwest
+15,4,Michigan,0.9283,South
+16,4,Kansas St,0.8677,West
+17,5,UNLV,0.859,East
+18,5,Oklahoma St,0.8936,Midwest
+19,5,VCU,0.8971,South
+20,5,Wisconsin,0.9374,West
+21,6,Butler,0.8146,East
+22,6,Memphis,0.855,Midwest
+23,6,UCLA,0.8353,South
+24,6,Arizona,0.8946,West
+25,7,Illinois,0.8408,East
+26,7,Creighton,0.9059,Midwest
+27,7,SDSU,0.8764,South
+28,7,Notre Dame,0.8676,West
+29,8,NC State,0.8605,East
+30,8,CSU,0.8851,Midwest
+31,8,N Carolina,0.8739,South
+32,8,Pittsburgh,0.9426,West
+33,9,Temple,0.7708,East
+34,9,Mizzou,0.8968,Midwest
+35,9,Villanova,0.8341,South
+36,9,Wichita St,0.8618,West
+37,10,CU,0.8278,East
+38,10,Cincinnati,0.8462,Midwest
+39,10,Oklahoma,0.8196,South
+40,10,Iowa St,0.8567,West
+41,11,Bucknell,0.7879,East
+42,11,Middle Tenn. or St. Mary's,0.8866,Midwest
+43,11,Minnesota,0.8857,South
+44,11,Belmont,0.8331,West
+45,12,Cal,0.7929,East
+46,12,Oregon,0.8395,Midwest
+47,12,Akron,0.8107,South
+48,12,Ole Miss,0.8609,West
+49,13,Montana,0.5473,East
+50,13,New Mexico St.,0.7246,Midwest
+51,13,S Dakota St,0.6675,South
+52,13,Boise St or La Salle,0.8291,West
+53,14,Davidson,0.7929,East
+54,14,Valpo,0.7761,Midwest
+55,14,Northwestern St,0.5729,South
+56,14,Harvard,0.6504,West
+57,15,Pacific,0.6104,East
+58,15,Albany,0.543,Midwest
+59,15,Florida GC,0.593,South
+60,15,Iona,0.6722,West
+61,16,LIU Brooklyn or J Madison,0.4602,East
+62,16,NC A&T or Liberty,0.3461,Midwest
+63,16,Western Kentucky,0.456,South
+64,16,Southern U,0.4765,West
